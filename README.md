@@ -16,10 +16,10 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h3 align="center">repo</h3>
+  <h3 align="center">Glaucoma Detection</h3>
 
   <p align="center">
-    Repo description
+    Glaucoma Detection from Fundus Images with Image Processing
     <br />
     <a href="https://github.com/arslanalperen/repo"><strong>Explore the docs »</strong></a>
     <br />
@@ -46,12 +46,12 @@
 </details>
 
 ```sh
-  test code
+  Still In Progress
 ```
 
-## Test
+<!-- ## Test -->
 
-<div align="center"> <img src="test.png"> </div>
+<!-- <div align="center"> <img src="test.png"> </div> -->
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
