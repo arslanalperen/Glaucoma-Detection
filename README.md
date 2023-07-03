@@ -18,6 +18,8 @@
 <div align="center">
   <h3 align="center">Glaucoma Detection</h3>
 
+![Status][ongoing-shield]
+
   <p align="center">
     Glaucoma Detection from Fundus Images with Image Processing
     <br />
@@ -37,22 +39,17 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#test heading">FIFO Functions</a>
+      <a href="#test heading">test</a>
       <ul>
-        <li><a href="test sub heading">fifo init</a></li>
+        <li><a href="test sub heading">test</a></li>
       </ul>
     </li>
   </ol>
 </details>
 
-```sh
-  Still In Progress
-```
-
 <!-- ## Test -->
 
 <!-- <div align="center"> <img src="test.png"> </div> -->
-
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -62,6 +59,8 @@
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [github-shield]: https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[ongoing-shield]: https://badgen.net/static/status/on%20going/red
+[completed-shield]: https://badgen.net/static/status/completed/green
 
 [instagram-url]: https://www.instagram.com/arslanalperen55/
 [github-url]: https://github.com/arslanalperen
