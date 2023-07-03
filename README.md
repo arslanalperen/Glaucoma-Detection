@@ -34,25 +34,6 @@
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#test heading">test</a>
-      <ul>
-        <li><a href="test sub heading">test</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
-<!-- ## Test -->
-
-<!-- <div align="center"> <img src="test.png"> </div> -->
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
